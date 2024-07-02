@@ -1,5 +1,13 @@
 # Object-Oriented-Analysis-Design-Review-6
 
+## 6-Phase SDLC index
+
+1. Identify problem
+2. Plan and monitor project
+3. **Analyze details**
+4. **Design components**
+5. Build / Develop solution
+6. Deploy / Implement solution
 
 ## Anaylsis & Design
 
